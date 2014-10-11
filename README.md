@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Hello GitHub
+Hello GitHub, today is a nice day.
